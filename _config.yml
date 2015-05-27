@@ -1,0 +1,12 @@
+name: toiee blog
+description: Blogging about learn how to learn
+meta_description: "toiee blog, Blogging about learn how to learn."
+markdown: redcarpet
+highlighter: pygments
+logo: false
+paginate: 10
+baseurl: /
+domain_name: "http://blog.toiee.jp"
+google_analytics: ""
+url: blog.toiee.jp
+author: Team toiee
